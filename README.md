@@ -9,3 +9,18 @@ In addition to covering the fundamentals of Python, the collection includes tuto
 All materials have been developed as interactive Jupyter Notebooks. University of Toronto users can use these notebooks through the University's [JupyterHub platform](https://datatools.utoronto.ca/). 
 
 This project is an ongoing work in progress, and we welcome suggestions, feedback, and questions. University of Toronto Faculty of Arts & Science instructors seeking support in using or adapting these materials are encouraged to contact us by [email](mailto:teachinglearning.artsci@utoronto.ca). 
+
+## Tutorials Overview
+
+- An Introduction to Python
+- Variables, Math, and Errors
+- Strings, Flow Control, Lists and Dictionaries
+- Loops, Functions and Libraries
+- The Basics of Working with Files in Python
+- Working with Data in Pandas
+
+- Data Visualization
+     - Data Visualization with Matplotlib
+     - Data Visualization with Pandas
+     - Data Visualization with Seaborn and Plotly
+     - Data Visualization with Maps - Folium
