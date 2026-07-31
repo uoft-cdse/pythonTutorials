@@ -12,15 +12,15 @@ This project is an ongoing work in progress, and we welcome suggestions, feedbac
 
 ## Tutorials Overview
 
-- An Introduction to Python
-- Variables, Math, and Errors
-- Strings, Flow Control, Lists and Dictionaries
-- Loops, Functions and Libraries
-- The Basics of Working with Files in Python
-- Working with Data in Pandas
+- [An Introduction to Python](0_Intro_to_Python.ipynb)
+- [Variables, Math, and Errors](1_Variables_Math_Errors.ipynb)
+- [Strings, Flow Control, Lists and Dictionaries](2_Strings_Flow_Control_Lists.ipynb)
+- [Loops, Functions and Libraries](3_Loops_Functions_Libraries.ipynb)
+- [The Basics of Working with Files in Python](4_Working_with_Files.ipynb)
+- [Working with Data in Pandas](5_Working_with_Data_in_Pandas.ipynb)
 
 - Data Visualization
-     - Data Visualization with Matplotlib
-     - Data Visualization with Pandas
-     - Data Visualization with Seaborn and Plotly
-     - Data Visualization with Maps - Folium
+     - [Data Visualization with Matplotlib](data_visualization_tutorials/Data_Visualization_Matplotlib.ipynb)
+     - [Data Visualization with Pandas](data_visualization_tutorials/Data_Visualization_Pandas.ipynb)
+     - [Data Visualization with Seaborn and Plotly](data_visualization_tutorials/Data_Visualization_Seaborn_Plotly.ipynb)
+     - [Data Visualization with Maps - Folium](data_visualization_tutorials/Data_Visualization_Folium.ipynb)
